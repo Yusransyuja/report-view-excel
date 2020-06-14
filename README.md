@@ -9,7 +9,7 @@ I just share part of my code to create a report download excel, I didn't show th
 # Explanation
 
 1. don't forget to include a dependencies apache poi
-2. create a controller to accomodate the data
+2. create a controller, service and DAO to accomodate the data
 3. create report view class to manage a data and converting to be a excel
 
 if any a issue please sharing, due to my knowledge somewhat limited
